@@ -213,5 +213,4 @@ This project is open source. Feel free to use, modify, and distribute according 
 - Inspired by cellular automata research and visualization
 
 ---
-
-**Enjoy exploring the fascinating world of cellular automata with Claude! 🌌**
+Claude Desktop https://claude.ai/download
