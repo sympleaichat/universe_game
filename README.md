@@ -4,6 +4,10 @@ An enhanced Conway's Game of Life simulation that runs as an MCP (Model Context 
 
 ❗**This game uses a lot of tokens. Please be careful when increasing the number of turns.**:❗
 
+You can check out the gameplay here
+https://claude.ai/share/a7dde4b2-be5c-4c17-9bfd-32e4137e6500
+
+
 ## Features
 
 - 🌌 **Conway's Game of Life Simulation**: Classic cellular automaton on a 20x20 grid
